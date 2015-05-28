@@ -5,7 +5,6 @@ PLEASE READ COPYING FOR LICENSE
 FOLLOWING IS THE EXCEPTION TO THE LICENSE
 
 Copyright 2015 George Charles Rosar II
-Commercial use only meant for Pixar Animation Studios, DreamWorks II Holding Co., LLC, ratroom and Titmouse, Inc.
 
 */
 
