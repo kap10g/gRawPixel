@@ -1,5 +1,4 @@
 # gRawPixel
-# Pixar, Dreamworks, ratroom, Titmouse
 
 # The following is to create a series of subpixel overrides to common libraries
 # As the CCD sensor size keeps going up but projection and display is much slower to catch up with pixel density
