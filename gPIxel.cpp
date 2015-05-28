@@ -1,4 +1,4 @@
-//Copyright 2015 George Rosar Multi-media explosion hour-half hour
+//Copyright 2015 George Charles Rosar II
 //Content only meant for pixar, dreamworks, ratroom and titmouse
 
 //Anyone else is directed to the Creative Commons license of 2014
