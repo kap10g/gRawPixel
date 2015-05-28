@@ -10,7 +10,7 @@
 # I intend to override renderers particularly and create sub-pixel information for what I would call
 # The 'sub-atomic pixel'
 
-# The intension is to use the abilties of Plasma displays to the maximum capability
+# The intention is to use the abilities of Plasma displays to the maximum capability
 # While also making different ways to downsample the format for standard displays
 
 # Ideally this should be projected in cinema in the future while keeping a low natural resolution
