@@ -43,9 +43,9 @@ namespace Osd
       		virtual gMath& multiply(Matrix*) = 0;
       		virtual gMath& multiply(Scalar*) = 0;
       		virtual gMath& multiply(Vector*) = 0;
-      		virtual gMath& multiply(int k) = 0;
+      		virtual gMath& multiply(int& k) = 0;
       		virtual gMath& operator^(gMath& rv) = 0;
-      		virtual gMath& powers(int k) = 0;
+      		virtual gMath& powers(int& k) = 0;
       		virtual ~gMath() {}
 	};
 
